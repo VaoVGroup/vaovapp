@@ -32,19 +32,12 @@ export default {
         btnalert() {
             alert(this.user.email)
         }
-    },
-    computed:{
-
-    },
-    created() {
-        
-    },
+    }
+   
     
 }
 </script>
 
 <style scoped>
-    .header { 
-        margin-top: 150px;
-    }
+   
 </style>
